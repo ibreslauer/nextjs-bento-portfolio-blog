@@ -1,0 +1,72 @@
+{
+  "author": {
+    "name": "Michael Scott",
+    "email": "michael.scott@dundermifflin.com",
+    "city": "Scranton",
+    "country": "United States",
+    "timezone": "GMT-5",
+    "avatar_url": "/images/author.webp",
+    "current_role": "Regional Manager",
+    "current_job": "Dunder Mifflin",
+    "current_job_url": "https://dundermifflin.com",
+    "linkedin_url": "https://www.linkedin.com/in/michael-scott",
+    "github_url": "https://www.github.com/michaelscott",
+    "brief_1": "I am dedicated to fostering a vibrant and engaging work environment where creativity and enthusiasm thrive.",
+    "brief_2": "I find purpose in transforming everyday office experiences into memorable moments and ensuring that every team member feels valued and motivated.",
+    "meta_summary": "Experienced office manager with a knack for unconventional leadership and team-building. Let's explore how I can bring creativity and enthusiasm to your organization."
+  },
+  "shoutouts": [
+    {
+      "text": "Michael's leadership and unique management style have left a lasting impact on the team.",
+      "author": "Jim Halpert, Sales Representative @ Dunder Mifflin"
+    },
+    {
+      "text": "Michael's creativity and motivational skills turn mundane office tasks into memorable experiences.",
+      "author": "Pam Beesly, Receptionist @ Dunder Mifflin"
+    },
+    {
+      "text": "His enthusiasm and innovative approach to office management have greatly contributed to our team's success.",
+      "author": "Dwight Schrute, Assistant Regional Manager @ Dunder Mifflin"
+    },
+    {
+      "text": "Michael has a unique ability to foster a positive work environment, even during challenging times.",
+      "author": "Angela Martin, Head of the Accounting Department @ Dunder Mifflin"
+    }
+  ],
+  "work_experience": [
+    {
+      "id": "dundermifflin",
+      "title": "Dunder Mifflin",
+      "description": "A paper company with a focus on excellent customer service and competitive pricing.",
+      "role": "Regional Manager",
+      "location": "Scranton, PA",
+      "responsibilities": [
+        "Overseeing daily operations of the Scranton branch",
+        "Implementing company policies and strategies",
+        "Managing and motivating staff to meet sales targets",
+        "Organizing team-building activities and events",
+        "Handling client relations and resolving issues"
+      ],
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Conflict Resolution",
+        "Sales Strategies",
+        "Public Speaking",
+        "Office Dynamics"
+      ],
+      "image": "/images/portfolio/dundermifflin-office.webp",
+      "imagePosition": "center",
+      "imageAlt": "Dunder Mifflin office space",
+      "href": "https://dundermifflin.com"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Arts",
+      "major": "Business Administration",
+      "university": "University of Scranton",
+      "graduation": "1997"
+    }
+  ]
+}

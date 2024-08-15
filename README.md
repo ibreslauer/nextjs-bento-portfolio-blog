@@ -2,7 +2,7 @@
 
 Welcome to **nextjs-bento-portfolio-blog** – a bento-inspired portfolio website built with Next.js and Tailwind CSS. This project showcases a modern, responsive design that blends the principles of minimalism and functionality. Perfect for developers, designers, and creatives looking to present their work in a clean, elegant format.
 
-[Demo](https://ib7r.dev/)
+[Demo](https://bento-portfolio-demo.vercel.app/)
 
 ## Features
 

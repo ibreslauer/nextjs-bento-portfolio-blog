@@ -8,7 +8,6 @@ import resume from "../resume.json";
 const MENU_ITEMS = [
   { href: "/", text: "home.", mobileOnly: true },
   { href: "/#work", text: "work." },
-  { href: "/blog", text: "blog." },
   { href: "/#contact", text: "contact." },
 ];
 

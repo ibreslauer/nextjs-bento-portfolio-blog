@@ -10,7 +10,6 @@ Welcome to **nextjs-bento-portfolio-blog** – a bento-inspired portfolio websit
 - **Bento-Inspired Layout**: Organize your content in a grid-based layout for an aesthetic, easy-to-navigate experience.
 - **Next.js**: Leverage the power of Next.js for server-side rendering, static site generation, and a fast, performant user experience.
 - **Tailwind CSS**: Utilize Tailwind CSS for a utility-first approach to styling, ensuring a highly customizable and consistent design.
-- **Dynamic (MDX) Blog**: Integrate a blog feature to share updates, tutorials, or articles with your audience.
 
 ## Installation
 

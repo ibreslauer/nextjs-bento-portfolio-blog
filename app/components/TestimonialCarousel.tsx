@@ -164,7 +164,9 @@ export const TestimonialCarousel = ({
             <div
               className="mx-auto w-full h-fit flex px-8 md:px-10 py-12 pb-24 flex-col justify-center items-start gap-6 pointer-events-none text-3xl md:text-4xl lg:text-5xl"
               style={{ transform: `translate-x-${offset * 100}%` }}
-              ref={(el) => el && (slidesRefs.current[index] = el)}
+              ref={(el) => {
+                if (el) slidesRefs.current[index] = el;
+              }}
             >
               <p className="text-3xl md:text-4xl lg:text-5xl font-medium before:content-['“'] before:relative before:-ml-[0.4em] before:text-gray-400 after:content-['”'] after:text-gray-400">
                 {
